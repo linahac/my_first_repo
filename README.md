@@ -1,6 +1,7 @@
 # my_first_repo
 # Friendly Collaboration Party
 I changed something in the new branch here
+Hello :)
 
 This repository is for planning a party to learn GitHub and more!
 
